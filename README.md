@@ -7,8 +7,6 @@
 - [10 Days of Statistics](#10-days-of-statistics)
 
 # 10 Days of Statistics
-|Day|Challenge|Points|Solution|
-|---|---------|------|--------|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Day|Challenge|Points|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|1|[Mean, Median, Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|30|<span style="color:green">Easy</span>|[Coming Soon]()|
