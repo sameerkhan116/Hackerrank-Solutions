@@ -9,4 +9,4 @@
 # 10 Days of Statistics
 |Day|Challenge|Points|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
-|1|[Mean, Median, Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|30|<span style="color:green">Easy</span>|[Coming Soon]()|
+|1|[Mean, Median, Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|30|<span style="color:green">Easy</span>|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/10DaysOfStats/MeanMedianMode.java)|
