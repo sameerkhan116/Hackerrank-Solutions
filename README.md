@@ -5,7 +5,7 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 11
+    Problems Solved: 12
     <br/>
     Days: 2
 </p>
@@ -19,6 +19,7 @@
 - [Interview Preparation Kit](#interview-preparation-kit)
     - [Graphs](#graphs)
     - [Trees](#trees)
+    - [Dynamic Programming](#dynamic-programming)
 - [10 Days of Statistics](#10-days-of-statistics)
 - [10 Days of Javascript](#10-days-of-javascript)
 
@@ -43,7 +44,7 @@
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[Contacts](https://www.hackerrank.com/challenges/ctci-contacts/problem)|50 (50)|Hard|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/CTCI/Contacts.java)|
-|2|[Balanced Parenthesis](https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/CTCI/BalanedParenthesis.java)|
+|2|[Balanced Parenthesis](https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/CTCI/BalancedParenthesis.java)|
 
 # Interview Preparation Kit
 ### Graphs
@@ -58,6 +59,13 @@
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|10 (10)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/HeightOfBTree.java)|
 |2|[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees&h_r=next-challenge&h_v=zen)|30 (30)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/LowestCommonAncestor.java)|
+
+### Dynamic Programming
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|2|[Abbreviation](https://www.hackerrank.com/challenges/abbr/problem)|40 (40)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/DynamicProgramming/Abbreviation.java)|
+|3|[Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)|50 (50)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/DynamicProgramming/Candies.java)|
 
 # 10 Days of Statistics
 |Day|Challenge|Points (Total)|Level|Solution|
