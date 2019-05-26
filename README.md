@@ -5,9 +5,9 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 12
+    Problems Solved: 18
     <br/>
-    Days: 2
+    Days: 3
 </p>
 <br/>
 
@@ -15,10 +15,13 @@
   - [Data Structures](#data-structures)
     - [Linked Lists](#linked-lists)
     - [Heap](#heap)
+  - [Algorithms](#algorithms)
+    - [Strings](#strings)
   - [Cracking the Coding Interview](#cracking-the-coding-interview)
 - [Interview Preparation Kit](#interview-preparation-kit)
     - [Graphs](#graphs)
     - [Trees](#trees)
+    - [Search](#search)
     - [Dynamic Programming](#dynamic-programming)
 - [10 Days of Statistics](#10-days-of-statistics)
 - [10 Days of Javascript](#10-days-of-javascript)
@@ -37,6 +40,16 @@
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|23.31 (25)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/DataStructures/Heap/QHEAP1.java)|
+
+## Algorithms
+### Strings
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|3|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|15 (15)|Easy|[Linked](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/StrongPassword.java)|
+|3|[Hackerrank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?h_r=next-challenge&h_v=zen)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/HackerrankInString.java)|
+|3|[Weighted Unifrom Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/WeightedUniformStrings.java)|
+|3|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/SeparateTheNumbers.java)|
 
 
 ## Cracking the Coding Interview
@@ -59,6 +72,12 @@
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|10 (10)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/HeightOfBTree.java)|
 |2|[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees&h_r=next-challenge&h_v=zen)|30 (30)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/LowestCommonAncestor.java)|
+
+### Search
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|3|[Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)|35 (35)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Search/MinimumDays.java)|
 
 ### Dynamic Programming
 
