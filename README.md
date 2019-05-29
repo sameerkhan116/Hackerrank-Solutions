@@ -5,7 +5,7 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 21
+    Problems Solved: 22
     <br/>
     Days: 5
 </p>
@@ -68,6 +68,7 @@
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|45 (45)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Graphs/NearestClone.java)|
+|5|[Roads And Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Graphs/RoadsAndLibraries.java)|
 
 ### Trees
 
