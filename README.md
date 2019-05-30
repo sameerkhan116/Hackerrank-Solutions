@@ -5,7 +5,7 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 25
+    Problems Solved: 28
     <br/>
     Days: 7
 </p>
@@ -97,12 +97,15 @@
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |5|[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/GenericStacksToQueue.java)|
+|7|[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|50 (50)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/LargestRectangle.java)|
+|7|[Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen)|50 (60)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/MinMaxRiddle.java)|
 
 ### Recursion
 
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |7|[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking&h_r=next-challenge&h_v=zen)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Recursion/DavisStaircase.java)|
+|7|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Recursion/RecursiveDigitSum.java)|
 
 # 10 Days of Statistics
 |Day|Challenge|Points (Total)|Level|Solution|
@@ -122,4 +125,5 @@
 ---
 Need to improve efficiency for:
 
-• QHEAP1
+- QHEAP1
+- Min Max Riddle
