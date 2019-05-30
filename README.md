@@ -5,9 +5,9 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 22
+    Problems Solved: 25
     <br/>
-    Days: 5
+    Days: 7
 </p>
 <br/>
 
@@ -24,6 +24,7 @@
     - [Search](#search)
     - [Dynamic Programming](#dynamic-programming)
     - [Stacks and Queues](#stacks-and-queues)
+    - [Recursion](#recursion)
 - [10 Days of Statistics](#10-days-of-statistics)
 - [10 Days of Javascript](#10-days-of-javascript)
 
@@ -96,6 +97,12 @@
 |Day|Challenge|Points (Total)|Level|Solution|
 |:---:|:---------:|:------:|:--------:|:--------:|
 |5|[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/GenericStacksToQueue.java)|
+
+### Recursion
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|7|[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking&h_r=next-challenge&h_v=zen)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Recursion/DavisStaircase.java)|
 
 # 10 Days of Statistics
 |Day|Challenge|Points (Total)|Level|Solution|
