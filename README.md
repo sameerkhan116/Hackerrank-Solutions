@@ -17,6 +17,7 @@
     - [Heap](#heap)
   - [Algorithms](#algorithms)
     - [Strings](#strings)
+    - [Implementation](#implementation)
   - [Cracking the Coding Interview](#cracking-the-coding-interview)
 - [Interview Preparation Kit](#interview-preparation-kit)
     - [Graphs](#graphs)
@@ -53,6 +54,12 @@
 |3|[Hackerrank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?h_r=next-challenge&h_v=zen)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/HackerrankInString.java)|
 |3|[Weighted Unifrom Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/WeightedUniformStrings.java)|
 |3|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|20 (20)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Strings/SeparateTheNumbers.java)|
+
+### Implementation
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|9|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|10 (10)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/Practice/Algorithms/Implementation/Chocolate.java)|
 
 
 ## Cracking the Coding Interview
@@ -99,6 +106,7 @@
 |5|[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/GenericStacksToQueue.java)|
 |7|[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|50 (50)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/LargestRectangle.java)|
 |7|[Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen)|50 (60)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/MinMaxRiddle.java)|
+|8|[Castle on the grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/StacksAndQueues/CastleOnTheGrid.java)|
 
 ### Recursion
 
