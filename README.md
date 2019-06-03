@@ -5,9 +5,9 @@
     <br/>
     Start Date: May 24, 2019
     <br/>
-    Problems Solved: 28
+    Problems Solved: 30
     <br/>
-    Days: 7
+    Days: 10
 </p>
 <br/>
 
@@ -85,6 +85,7 @@
 |:---:|:---------:|:------:|:--------:|:--------:|
 |2|[Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|10 (10)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/HeightOfBTree.java)|
 |2|[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees&h_r=next-challenge&h_v=zen)|30 (30)|Easy|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/LowestCommonAncestor.java)|
+|10|[Huffman Encoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|20 (20)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Trees/HuffmanEncoding.java)|
 
 ### Search
 
