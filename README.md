@@ -26,6 +26,7 @@
     - [Dynamic Programming](#dynamic-programming)
     - [Stacks and Queues](#stacks-and-queues)
     - [Recursion](#recursion)
+    - [Miscellaneous](#miscellaneous)
 - [10 Days of Statistics](#10-days-of-statistics)
 - [10 Days of Javascript](#10-days-of-javascript)
 
@@ -115,6 +116,12 @@
 |:---:|:---------:|:------:|:--------:|:--------:|
 |7|[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking&h_r=next-challenge&h_v=zen)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Recursion/DavisStaircase.java)|
 |7|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|30 (30)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Recursion/RecursiveDigitSum.java)|
+
+### Miscellaneous
+
+|Day|Challenge|Points (Total)|Level|Solution|
+|:---:|:---------:|:------:|:--------:|:--------:|
+|11|[Union Find](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|45 (45)|Medium|[Link](https://github.com/sameerkhan116/Hackerrank-Solutions/blob/master/InterviewPrepKit/Miscellaneous/UnionFind.java)|
 
 # 10 Days of Statistics
 |Day|Challenge|Points (Total)|Level|Solution|
