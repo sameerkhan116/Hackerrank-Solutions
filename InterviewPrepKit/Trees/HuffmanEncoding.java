@@ -56,4 +56,5 @@ class Decoding {
         }
         System.out.print(sb);
     }
+}
 
